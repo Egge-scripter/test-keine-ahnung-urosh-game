@@ -1,3 +1,5 @@
+if game.PlaceId== 168556275 then
+
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
@@ -75,4 +77,3 @@ local Toggle = Tab:CreateToggle({
    end,
 })
 
-# test-keine-ahnung-urosh-game
